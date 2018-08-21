@@ -34,7 +34,9 @@ and Junos versions, system snapshot is not one of those features.
 Legend:
 
 N = New output format
+
 O = Old output format
+
 ✝ = No longer supported, see https://www.juniper.net/documentation/en_US/junos/topics/reference/command-summary/request-system-snapshot-qfx-series.html for further details.
 
 Display formats
